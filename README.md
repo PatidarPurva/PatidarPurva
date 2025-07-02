@@ -1,8 +1,8 @@
  Hi 👋 I'm Purva Patidar
  
- 🚀 About Me
-I’m **Purva Patidar**, a passionate **Computer Science & Engineering student**.  
-I’m driven by curiosity and love turning ideas into reality through **web development**.
+ 🚀 About Me :
+    I’m **Purva Patidar**, a passionate **Computer Science & Engineering student**.  
+    I’m driven by curiosity and love turning ideas into reality through **web development**.
 - 🎓 Pursuing **B.tech in Computer Science and Engineering**
 - 💻 Interested in **Full-Stack Web Development**
 - 🌱 Currently learning **Java, DSA, and modern web frameworks**
